@@ -18,7 +18,7 @@
 </header>
 <main>
     <div class="coordinates_picture">
-        <svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+        <svg viewBox="0 0 300 300">
             <rect x="50" y="150" width="100" height="50" style="stroke-opacity: 0.6; fill: rgb(51, 153, 255);"/>
             <rect x="761.101" y="270.492" width="0.74" height="0.74" style="fill: rgb(216, 216, 216); fill-opacity: 0.6;"/>
             <path style="fill: rgb(51, 153, 255);" transform="matrix(0, 0.798786, -0.798786, 0, 272.214264, -104.972481)" d="M 256.605 153 A 62.595 62.595 0 0 1 319.2 90.405 L 319.2 153 Z" bx:shape="pie 319.2 153 0 62.595 270 360 1@674ad589"/>
